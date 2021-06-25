@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Portfolio App with netlify
         </a>
       </header>
     </div>
